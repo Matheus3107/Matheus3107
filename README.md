@@ -1,8 +1,8 @@
 hello 👋
 
-🔭 Currently I work at Grupo Adriano Cobuccio
-💻 Bachelor in Computer Science
-✔️ Work with web development 
-🌱 I'm currently improving my Web Development skill
-👯 I’m looking to collaborate on web projects
-📫 How to reach me: https://bityli.com/fjeOl
+🔭 Currently I work at Grupo Adriano Cobuccio <br>
+💻 Bachelor in Computer Science <br>
+✔️ Work with web development  <br>
+🌱 I'm currently improving my Web Development skill <br>
+👯 I’m looking to collaborate on web projects <br>
+📫 How to reach me: encurtador.com.br/oDGS8
