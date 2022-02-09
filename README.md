@@ -5,4 +5,4 @@ hello 👋
 ✔️ Work with web development  <br>
 🌱 I'm currently improving my Web Development skill <br>
 👯 I’m looking to collaborate on web projects <br>
-📫 How to reach me: encurtador.com.br/oDGS8
+📫 
